@@ -1,4 +1,4 @@
-# Latex
+# LaTex
 ![LaTeX_Document01_Cardano_NumeroComplejos](https://user-images.githubusercontent.com/36342673/128617464-3164335e-921c-4685-bc4e-5c0ca1034670.png)
 
 
